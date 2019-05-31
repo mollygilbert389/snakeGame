@@ -1,4 +1,4 @@
-#Snake
+# Snake
 
 Snake game created using JavaScript. 
 
